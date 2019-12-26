@@ -1,6 +1,16 @@
 # PatchText.Party
 
 ---
+***Download Section***
+
+[❗️Pokèmon Sword PatchText (1.0.0)❗️](https://raw.githubusercontent.com/Back0ldor/PatchText.Party/master/PkSw_1.0.0.pchtxt)
+
+[❗️Splatoon 2 PatchText (5.0.0)❗️](https://raw.githubusercontent.com/Back0ldor/PatchText.Party/master/S2_5.0.0.pchtxt)
+
+[❗️Splatoon2 GlobalTestFire Hidden Menu (1.0.0)❗️](https://raw.githubusercontent.com/Back0ldor/PatchText.Party/master/S2Testfire_1.0.0.pchtxt)
+
+
+---
 ***READ***
 
 Useful patchtext to use with [3096](https://github.com/3096)’s [IPSwitch](https://github.com/3096/ipswitch/releases)
