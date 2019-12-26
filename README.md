@@ -44,7 +44,7 @@ Useful patchtext to use with [3096](https://github.com/3096)’s [IPSwitch](http
 
 [@Shadòw](https://github.com/shadowninja108)
 
-[@AmazingChz](AmazingChz#5695)
+@AmazingChz (AmazingChz#5695)
 
 [@Haxxie](https://youtube.com/Haxxie)
 
