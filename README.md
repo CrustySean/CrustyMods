@@ -15,7 +15,16 @@
 
 Useful patchtext to use with [3096](https://github.com/3096)’s [IPSwitch](https://github.com/3096/ipswitch/releases)
 
-## I don't take any responsibility for any ban or damage that these stuff can cause to you or your console!
+---
+
+# Disclaimer
+
+### I don't take any responsibility for any ban or damage that these stuff can cause to you or your console!
+
+### The licenses are the one from the creators!
+
+### I don't take any responsibility for the wrong use of this stuff!
+
 
 ***BE CAREFULLY***
 
