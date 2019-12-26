@@ -134,3 +134,21 @@
 // Have all DLC [Khangaroo]
 @enabled
 0006AA14 1FFD1F71
+
+// Remove 2D news layer [Shadow]
+@enabled
+0010BF5C 07000014
+
+// Who watches the news anymore? [Shadow]
+@enabled
+0010BAD0 F4031FAA
+
+// Use Deli24 weather system everywhere (except plaza) [Shadow] (5.0.0)
+@enabled
+00A22148 C9CE009029890191 // Shift map comparison string to plaza
+00A22248 200080D2 // Return true if we are not in plaza
+00A22174 37000014 // Jump to return false (if the map wasn't plaza)
+00A22250 E0031FAA // Return false 
+00A0FE08 0760B8520701070B
+00A0FE7C 070000F9
+
