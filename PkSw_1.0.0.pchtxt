@@ -1,0 +1,15 @@
+@nsobid-8DAFEDBB5BE81C2C0160161159A791E67E3D6162
+# Pokemon Sword 1.0.0
+@flag offset_shift 0x100
+
+// Increased Framerate and Game Speed
+@d
+0178E09C 1F2003D5
+
+// Disable Local Directional Network
+@d
+017EA670 00008092C0035FD6
+
+// disable exp share
+@d
+007CD130 00008052
