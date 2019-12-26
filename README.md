@@ -5,7 +5,7 @@
 
 Useful patchtext to use with [3096](https://github.com/3096)’s [IPSwitch](https://github.com/3096/ipswitch/releases)
 
-## I don't take any responsibility for any ban or damage that these stuff can cause to you!
+## I don't take any responsibility for any ban or damage that these stuff can cause to you or your console!
 
 ***BE CAREFULLY***
 
@@ -34,19 +34,19 @@ Useful patchtext to use with [3096](https://github.com/3096)’s [IPSwitch](http
 ---
 # Credits
 
-### This project wouldn't possible without the help of (in no particular order):
+### This project wouldn't possible without the contribution of (in no particular order):
 
-@3096
+[@3096](https://github.com/3096)
 
-@OatmealDome 
+[@OatmealDome](https://oatmealdome.me)
 
-@Simonx22
+[@Simonx22](https://github.com/Simonx22)
 
-@Shadòw
+[@Shadòw](https://github.com/shadowninja108)
 
-@AmazingChz
+[@AmazingChz](AmazingChz#5695)
 
-@Haxxie 
+[@Haxxie](https://youtube.com/Haxxie)
 
 And all guys of the [Splatoon Modding Hub](https://discord.gg/5k4msvP)
 ---
