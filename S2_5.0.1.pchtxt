@@ -122,3 +122,7 @@
 // Bomb Launcher Tank [Haxxie]
 @disabled
 00081B24 00778152C0035FD6
+
+// If you touch the enemy ink, you die
+@enabled
+0105FA80 F6E184D2
