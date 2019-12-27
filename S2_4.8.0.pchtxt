@@ -1,0 +1,133 @@
+@nsobid-E01DBBA25E9DAC2BA792DD0197038266
+
+@flag offset_shift 0x100
+
+/ ********************************************************************
+/
+/
+# Splatoon 2 4.8.0 Patches
+/
+/ 
+/
+/ ********************************************************************
+
+// Always Movable [Haxxie]
+@enabled
+00FE3E74 45000014
+
+// No Charger Delay [Haxxie]
+@enabled
+00FF2860 3A000014
+
+// Automatic Ultra Rapidfire Bombs No Jutsu [Haxxie]
+@enabled
+00FBD6D8 78000014
+0108B27C 11000014
+0108B2C0 20008052
+0106931C 29000014
+
+// No death zones [kgg]
+@enabled
+01102F58 C0035FD6
+
+// Fly [kgg]
+@enabled
+00FD7E7C C0035FD6
+
+// Godmode [SplatNut]
+@enabled
+010327F0 160080D2
+
+// Swim in Ink anywhere [SplatNut]
+@enabled
+00FF3D0C 1F090071
+00FF3CE8 07000014
+00FF3CB4 48008052
+010F50A4 1F2003D5
+010F4CC4 540080D2
+010F5054 13000014
+
+// Big Inkling
+@disabled
+02475EF8 6666A640
+
+// No GUI [Meshi]
+@enabled
+02475C40 00454443
+
+// Infinite Clams [Haxxie 99]
+@enabled
+00FF00E4 01000014
+00FF0108 01000014
+
+// Infinite Specials in SR [Haxxie 99]
+@enabled
+029A49D0 FF000000
+
+// One Player Private Battles [OatmealDome]
+@enabled
+0035A08C 1F2003D51F2003D50900
+0035A097 14
+003611E4 1F2003D51F2003D50900
+003611EF 14
+01489568 21008052
+014A6954 21008052
+014A5FB0 1F2003D5
+
+// Offline Shop [Zewia]
+@enabled
+014CE910 200080D2
+
+// Jump Height Modifier [Haxxie]
+@enabled
+00FDF9B8 44000014
+02476090 CDCC5C40
+
+// 1 Sec Rainmaker Match [Haxxie]
+@disabled
+01330D8C 20008052
+
+// Infinite Rainmaker Match [Haxxie]
+@enabled
+01330D8C 00FEBF12
+
+// Dummy Player [Shadow]
+@disabled
+001AE468 390280D2
+001AE50C E0031FAA
+
+// Offline Lobby
+@disabled
+01464DF4 C0035FD6
+
+// Change Drop GoldenEgg [tkgling]
+@enabled
+006478FC 48018052
+00647900 0031881A
+
+// Fest Decorations
+@enabled
+023DF121 54696D6500
+
+// Map Force [Zewia]
+@enabled
+014A5E60 807182D2
+0035EB88 09000014
+
+// Private Lobby [Haxxie]
+@disabled
+01464E20 03000014
+01464E30 08000014
+
+// Can't Move [Haxxie]
+@disabled
+0105D0D8 52010014
+
+// All Rollers Stand Shots Use Light Roller Param [Haxxie]
+@disabled
+01077CA0 48000014
+0135CE4C 05000014
+
+// Auto Roller [Haxxie]
+@enabled
+00FEC6D0 12000014
