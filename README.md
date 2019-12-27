@@ -7,8 +7,9 @@
 
 [❗️Splatoon 2 PatchText (5.0.0)❗️](https://raw.githubusercontent.com/Back0ldor/PatchText.Party/master/S2_5.0.0.pchtxt)
 
-[❗️Splatoon2 GlobalTestFire Hidden Menu (1.0.0)❗️](https://raw.githubusercontent.com/Back0ldor/PatchText.Party/master/S2Testfire_1.0.0.pchtxt)
+[❗️Splatoon 2 GlobalTestFire Hidden Menu (1.0.0)❗️](https://raw.githubusercontent.com/Back0ldor/PatchText.Party/master/S2Testfire_1.0.0.pchtxt)
 
+[❗️Splatoon 2 PatchText (5.0.1)❗️](https://raw.githubusercontent.com/Back0ldor/PatchText.Party/master/S2_5.0.1.pchtxt)
 
 ---
 ***READ***
