@@ -51,6 +51,16 @@ Useful patchtext to use with [3096](https://github.com/3096)’s [IPSwitch](http
 
 ***Y***: Try to report it to the Issue Tab, I'll try to help you
 
+
+***X***: Can IPSwitch works on SX OS? 
+
+***Y***: No, I only forked the project to get it works on ReiNX, but it dosen't works for unknown reasons, the project is [here](https://github.com/Back0ldor/IPSwitchMOD)
+
+
+***X***: What's the best CFW to use these patches?
+
+***Y***: I'll suggest you to download [Kosmos](https://github.com/AtlasNX/Kosmos/releases) it's based on [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere)
+
 ---
 # Credits
 
