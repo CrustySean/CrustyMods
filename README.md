@@ -11,11 +11,14 @@
 
 [❗️Splatoon 2 PatchText (5.0.1)❗️](https://raw.githubusercontent.com/Back0ldor/PatchText.Party/master/S2_5.0.1.pchtxt)
 
+[❗️Splatoon 2 PatchText (4.8.0)❗️](https://raw.githubusercontent.com/Back0ldor/PatchText.Party/master/S2_4.8.0.pchtxt)
+
 ---
-***READ***
+***IMPORTANT NOTES***
 
-Useful patchtext to use with [3096](https://github.com/3096)’s [IPSwitch](https://github.com/3096/ipswitch/releases)
+Useful patchtext to use with [3096](https://github.com/3096)’s [IPSwitch](https://github.com/3096/ipswitch/releases) 
 
+#### If you are on a version above 5.0.0 update to ***5.0.0*** or ***5.0.1***
 ---
 
 # Disclaimer
@@ -77,6 +80,10 @@ Useful patchtext to use with [3096](https://github.com/3096)’s [IPSwitch](http
 @AmazingChz (AmazingChz#5695)
 
 [@Haxxie](https://youtube.com/Haxxie)
+
+[@SamuBswitch](https://www.youtube.com/channel/UCypWFxm4kmGepmL0WwfW32Q)
+
+[@OctoSquiddy](https://www.youtube.com/channel/UCRiv_r1fxFaoOHqrzRpllDg)
 
 And all guys of the [Splatoon Modding Hub](https://discord.gg/5k4msvP)
 ---
