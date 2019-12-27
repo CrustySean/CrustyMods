@@ -88,7 +88,7 @@ You need to create a folder inside ```/switch/ipswitch``` with the above name of
 
 [@Shadòw](https://github.com/shadowninja108)
 
-@AmazingChz (AmazingChz#5695)
+[@AmazingChz](https://github.com/AmazingChz)
 
 [@Haxxie](https://youtube.com/Haxxie)
 
