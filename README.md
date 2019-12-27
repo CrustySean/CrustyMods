@@ -19,6 +19,17 @@
 Useful patchtext to use with [3096](https://github.com/3096)’s [IPSwitch](https://github.com/3096/ipswitch/releases) 
 
 #### If you are on a version above 5.0.0 update to ***5.0.0*** or ***5.0.1***
+
+You need to create a folder inside ```/switch/ipswitch``` with the above name of the games where you want to apply these mods. (Just copy and paste the name above to the new folder)
+
+***Splatoon2*** --> ```Splatoon2```
+
+***Splatoon2 Global Testfire*** --> ```Testfire-SENKOU-SHISHAKAI```
+
+***Pokèmon Sword*** --> ```Pokèmon Sword```
+
+***Splatoon2 Splatfest World Premiere*** --> ```Splatfest-World-Premiere-ZENYASAI```
+
 ---
 
 # Disclaimer
