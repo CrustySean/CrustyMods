@@ -3,7 +3,11 @@
 ---
 ***Download Section***
 
+### Pokèmon ⬇️
+
 [❗️Pokèmon Sword PatchText (1.0.0)❗️](https://raw.githubusercontent.com/Back0ldor/PatchText.Party/master/PkSw_1.0.0.pchtxt)
+
+### Splatoon 2 + Various Special Demos (not all) ⬇️
 
 [❗️Splatoon 2 PatchText (5.0.0)❗️](https://raw.githubusercontent.com/Back0ldor/PatchText.Party/master/S2_5.0.0.pchtxt)
 
@@ -12,6 +16,8 @@
 [❗️Splatoon 2 PatchText (5.0.1)❗️](https://raw.githubusercontent.com/Back0ldor/PatchText.Party/master/S2_5.0.1.pchtxt)
 
 [❗️Splatoon 2 PatchText (4.8.0)❗️](https://raw.githubusercontent.com/Back0ldor/PatchText.Party/master/S2_4.8.0.pchtxt)
+
+[❗️SplatFest World Premiere (1.0.0)❗️](https://raw.githubusercontent.com/Back0ldor/PatchText.Party/master/S2SplatFestWorldPremiere_1.0.0.pchtxt)
 
 ---
 ***IMPORTANT NOTES***
