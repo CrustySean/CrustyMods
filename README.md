@@ -1,7 +1,7 @@
-# PatchText.Party
+# Mods.Party
 
 ---
-***Download Section***
+***Download Section (PatchText-exefs_patches)***
 
 ### Pokèmon ⬇️
 
@@ -52,9 +52,14 @@ You need to create a folder inside ```/switch/ipswitch``` with the above name of
 ---
 ### F.A.Q
 
-***X***: how can I install these patch?
+***X***: how can I install the PatchText?
 
 ***Y***: follow the Splatoon2 Section [here](https://back0ldor.github.io)
+
+
+***X***: how can I install the texture replacement mod (romfs)
+
+***Y***: just place all of the files from the downloaded folder to ```/atmosphere/titles/TitleIDofthegame```
 
 
 ***X***: can I get banned?
@@ -62,12 +67,16 @@ You need to create a folder inside ```/switch/ipswitch``` with the above name of
 ***Y***: use them offline for your safety, just disable them before you go online (if you aren't banned)
 
 
-***X***: why there's not a patch for ... game?
+***X***: why there's not a PatchText for ... game?
 
 ***Y***: simply because there aren't patches for all games
 
+***X***: where can I find other TextureMods (romfs)?
 
-***X***: I don't have the right version of the game that support these patches, what can I do?
+***Y***: [here](https://gamebanana.com) just click on the search bar and search the game that you want
+
+
+***X***: I don't have the right version of the game that support these PatchText, what can I do?
 
 ***Y***: Try to report it to the Issue Tab, I'll try to help you
 
