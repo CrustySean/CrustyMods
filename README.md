@@ -120,7 +120,5 @@ You need to create a folder inside ```/switch/ipswitch``` with the above name of
 
 [@SamuBswitch](https://www.youtube.com/channel/UCypWFxm4kmGepmL0WwfW32Q)
 
-[@OctoSquiddy](https://www.youtube.com/channel/UCRiv_r1fxFaoOHqrzRpllDg)
-
 And all guys of the [Splatoon Modding Hub](https://discord.gg/5k4msvP)
 ---
