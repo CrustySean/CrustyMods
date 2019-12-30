@@ -19,7 +19,7 @@
 
 [❗️SplatFest World Premiere (1.0.0)❗️](https://raw.githubusercontent.com/Back0ldor/PatchText.Party/master/S2SplatFestWorldPremiere_1.0.0.pchtxt)
 
-***Download Section (Texture-Replacement-romfs)
+***Download Section (Texture-Replacement-romfs)***
 
 On [GameBanana](https://gamebanana.com/games/6383) really updated and really helpful
 
