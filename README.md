@@ -1,4 +1,4 @@
-# Mods.Party
+# CrustyMods
 
 ---
 ***Download Section (PatchText-exefs_patches)***
@@ -51,6 +51,11 @@ You need to create a folder inside ```/switch/ipswitch``` with the above name of
 
 ---
 ### F.A.Q
+
+***X***: is there any guide to follow?
+
+***Y***: yes, at [SeanGuide](https://crustysean.github.io/SeanGuide/)
+
 
 ***X***: how can I install the PatchText?
 
