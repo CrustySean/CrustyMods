@@ -21,6 +21,17 @@
 
 [❗️SplatFest World Premiere (1.0.0)❗️](https://raw.githubusercontent.com/Back0ldor/PatchText.Party/master/S2SplatFestWorldPremiere_1.0.0.pchtxt)
 
+
+[❕Splatoon 2 Patchtext (NOBAN) (4.8.0)❕](https://raw.githubusercontent.com/CrustySean/CrustyMods/master/S2_4.8.0_noban.pchtxt)
+
+[❕Splatoon 2 PatchText (NOBAN) (5.0.0)❕](https://raw.githubusercontent.com/CrustySean/CrustyMods/master/S2_5.0.0_noban.pchtxt)
+
+
+#### IMPORTANT NOTE: 
+
+NOBAN dosen't mean that you can't be banned if you use these patches, as you can be banned for more stuff. These mods aren't mods that you can only view not the other players. 
+
+
 ***Download Section (Texture-Replacement-romfs)***
 
 On [GameBanana](https://gamebanana.com/games/6383) really updated and really helpful
