@@ -134,7 +134,7 @@ You need to create a folder inside ```/switch/ipswitch``` with the above name of
 And all guys of the [Splatoon Modding Hub](https://discord.gg/5k4msvP)
 ---
 
-***[DISCORD SERVER](https://discord.gg/9yaGmzF)*** if you need any help
+***[DISCORD SERVER](https://discord.gg/cD4GnpA)*** if you need any help
 
 ---
 
