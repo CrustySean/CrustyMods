@@ -21,7 +21,7 @@
 
 [❗️SplatFest World Premiere (1.0.0)❗️](https://raw.githubusercontent.com/Back0ldor/PatchText.Party/master/S2SplatFestWorldPremiere_1.0.0.pchtxt)
 
-[❗Splatoon 2 PatchText (5.1.0)❗(https://raw.githubusercontent/CrustySean/CrustyMods/S2_5.1.0.pchtxt)
+[❗Splatoon 2 PatchText (5.1.0)❗](https://raw.githubusercontent/CrustySean/CrustyMods/S2_5.1.0.pchtxt)
 
 [❕Splatoon 2 Patchtext (NOBAN) (4.8.0)❕](https://raw.githubusercontent.com/CrustySean/CrustyMods/master/S2_4.8.0_noban.pchtxt)
 
