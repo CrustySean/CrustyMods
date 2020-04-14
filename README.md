@@ -29,7 +29,7 @@
 
 #### IMPORTANT NOTE: 
 
-NOBAN dosen't mean that you can't be banned if you use these patches, as you can be banned for more stuff. These mods aren't mods that you can only view not the other players. 
+NOBAN dosen't mean that you can't be banned if you use these patches, as you can be banned for more stuff. These mods aren't mods that you can only view, not the other players. 
 
 
 ***Download Section (Texture-Replacement-romfs)***
@@ -41,7 +41,7 @@ On [GameBanana](https://gamebanana.com/games/6383) really updated and really hel
 
 Useful patchtext to use with [3096](https://github.com/3096)’s [IPSwitch](https://github.com/3096/ipswitch/releases) 
 
-#### If you are on a version above 5.0.0 update to ***5.0.0*** or ***5.0.1***
+#### If you are on a version above 5.0.0 update to ***5.0.0*** or ***5.0.1*** or the latest ***5.1.0***
 
 You need to create a folder inside ```/switch/ipswitch``` with the above name of the games where you want to apply these mods. (Just copy and paste the name above to the new folder)
 
@@ -81,7 +81,7 @@ You need to create a folder inside ```/switch/ipswitch``` with the above name of
 
 ***X***: how can I install the texture replacement mod (romfs)
 
-***Y***: just place all of the files from the downloaded folder to ```/atmosphere/titles/TitleIDofthegame```
+***Y***: just place all of the files from the downloaded folder to ```/atmosphere/contents/TitleIDofthegame/romfs/```
 
 
 ***X***: can I get banned?
@@ -105,7 +105,7 @@ You need to create a folder inside ```/switch/ipswitch``` with the above name of
 
 ***X***: Can IPSwitch works on SX OS? 
 
-***Y***: No, I only forked the project to get it works on ReiNX, but it dosen't works for unknown reasons, the project is [here](https://github.com/Back0ldor/IPSwitchMOD)
+***Y***: Yes, I made a fork of IPSwitch (originally made for ReiNX) you can download it [here](https://cdn.discordapp.com/attachments/677847787681087488/680711056330588160/IPSwitchSXOS.nro) the project is available [here](https://github.com/Back0ldor/IPSwitchMOD)
 
 
 ***X***: What's the best CFW to use these patches?
@@ -129,12 +129,12 @@ You need to create a folder inside ```/switch/ipswitch``` with the above name of
 
 [@Haxxie](https://youtube.com/Haxxie)
 
-[@SamuBswitch](https://www.youtube.com/channel/UCypWFxm4kmGepmL0WwfW32Q)
+[@EC2★Samu](https://www.youtube.com/channel/UCypWFxm4kmGepmL0WwfW32Q)
 
 And all guys of the [Splatoon Modding Hub](https://discord.gg/5k4msvP)
 ---
 
-***[DISCORD SERVER](https://discord.gg/cD4GnpA)*** if you need any help
+***[MY DISCORD SERVER](https://discord.gg/cD4GnpA)*** if you need any help
 
 ---
 
