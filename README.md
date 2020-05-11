@@ -72,7 +72,7 @@ You need to create a folder inside ```/switch/ipswitch``` with the above name of
 
 ***X***: is there any guide to follow?
 
-***Y***: yes, at [SeanGuide](https://crustysean.github.io/SeanGuide/)
+***Y***: yes, at [CrustyGuide](https://crustysean.github.io/CrustyGuide/)
 
 
 ***X***: how can I install the PatchText?
