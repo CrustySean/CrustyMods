@@ -42,7 +42,7 @@ On [GameBanana](https://gamebanana.com/games/6383) really updated and really hel
 
 Useful patchtext to use with [3096](https://github.com/3096)’s [IPSwitch](https://github.com/3096/ipswitch/releases) 
 
-#### If you are on a version above 5.0.0 update to ***5.0.0*** or ***5.0.1*** or the latest ***5.1.0***
+#### If you are on a version above 5.0.0 update to ***5.0.0*** , ***5.0.1*** , ***5.1.0*** or the lastest ***5.2.0***
 
 You need to create a folder inside ```/switch/ipswitch``` with the above name of the games where you want to apply these mods. (Just copy and paste the name above to the new folder)
 
