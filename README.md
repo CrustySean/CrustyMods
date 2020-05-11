@@ -77,7 +77,7 @@ You need to create a folder inside ```/switch/ipswitch``` with the above name of
 
 ***X***: how can I install the PatchText?
 
-***Y***: follow the Splatoon2 Section [here](https://back0ldor.github.io)
+***Y***: follow the Guide [here](https://crustysean.github.io/CrustyGuide/)
 
 
 ***X***: how can I install the texture replacement mod (romfs)
@@ -106,7 +106,7 @@ You need to create a folder inside ```/switch/ipswitch``` with the above name of
 
 ***X***: Can IPSwitch works on SX OS? 
 
-***Y***: Yes, I made a fork of IPSwitch (originally made for ReiNX) you can download it [here](https://cdn.discordapp.com/attachments/677847787681087488/680711056330588160/IPSwitchSXOS.nro) the project is available [here](https://github.com/Back0ldor/IPSwitchMOD)
+***Y***: Yes, I made a fork of IPSwitch (originally made for ReiNX) you can download it [here](https://cdn.discordapp.com/attachments/677847787681087488/680711056330588160/IPSwitchSXOS.nro) the project is available [here](https://github.com/CrustySean/IPSwitchMOD)
 
 
 ***X***: What's the best CFW to use these patches?
