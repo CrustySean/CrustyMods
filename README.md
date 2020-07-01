@@ -115,7 +115,7 @@ You need to create a folder inside ```/switch/ipswitch``` with the above name of
 
 ***X***: What's the best CFW to use these patches?
 
-***Y***: I'll suggest you to download [Kosmos](https://github.com/AtlasNX/Kosmos/releases) it's based on [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere)
+***Y***: I'll suggest you to download [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere)
 
 ---
 # Credits
