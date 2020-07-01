@@ -23,6 +23,10 @@
 
 [❗Splatoon 2 PatchText (5.1.0)❗](https://raw.githubusercontent.com/CrustySean/CrustyMods/master/S2_5.1.0.pchtxt)
 
+[❗Splatoon 2 PatchText (5.2.0)❗](https://raw.githubusercontent.com/CrustySean/CrustyMods/master/5.2.0public.pchtxt)
+
+[❗Splatoon 2 PatchText (5.2.1)❗](https://raw.githubusercontent.com/CrustySean/CrustyMods/master/5.2.1public.pchtxt)
+
 [❕Splatoon 2 Patchtext (NOBAN) (4.8.0)❕](https://raw.githubusercontent.com/CrustySean/CrustyMods/master/S2_4.8.0_noban.pchtxt)
 
 [❕Splatoon 2 PatchText (NOBAN) (5.0.0)❕](https://raw.githubusercontent.com/CrustySean/CrustyMods/master/S2_5.0.0_noban.pchtxt)
