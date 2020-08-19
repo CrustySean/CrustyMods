@@ -138,12 +138,14 @@ You need to create a folder inside ```/switch/ipswitch``` with the above name of
 
 [@EC2★Samu](https://www.youtube.com/channel/UCypWFxm4kmGepmL0WwfW32Q)
 
-[@Takaharu](https://discord.gg/fyE2hzM)
+[@Takaharu](https://www.youtube.com/channel/UC6gs5d8r5dT78lgeOKgs4JQ)
 
-And all guys of the [Splatoon Modding Hub](https://discord.gg/5k4msvP)
 ---
+***[TAKAHARU'S SERVER](https://discord.gg/VxMZJZU)***
 
-***[MY DISCORD SERVER](https://discord.gg/2gjrSsP)*** if you need any help
+***[MY DISCORD SERVER](https://discord.gg/2gjrSsP)***
+
+Join in one of these server if you would need any help
 
 ---
 
